@@ -1,4 +1,15 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=b9e0fd&height=150&section=header&fontSize=50&fontColor=ffffff&fontAlign=70)
+
+## Hi 👋 I'm Hanuel
+- Hanyang University, Department of Information System (2020.03 ~ )
+- LikeLion Hanyang 10th, Backend (2022.04 ~ )
+- GDSC Hanyang 2nd, Backend Core (2022.08 ~ )
+- Woowahan Tech Course 5th, Backend (2023.02 ~ )
+
+## Now I'm learning ...
+
+<img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6db33f?style=flat-square"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
 <!--
 **hanueleee/hanueleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
