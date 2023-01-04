@@ -8,7 +8,7 @@
 
 ## Now I'm learning ...
 
-<img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6db33f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20MVC-6db33f?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6db33f?style=flat-square"/> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
 <!--
