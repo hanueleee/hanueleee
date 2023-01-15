@@ -2,7 +2,7 @@
 
 ## Hi 👋 I'm Hanuel
 - Hanyang University, Department of Information System (2020.03 ~ )
-- LikeLion Hanyang 10th, Backend (2022.04 ~ )
+- LikeLion Hanyang 10th, Backend (2022.04 ~ 2022.12)
 - GDSC Hanyang 2nd, Backend Core (2022.08 ~ )
 - Woowahan Tech Course 5th, Backend (2023.02 ~ )
 
