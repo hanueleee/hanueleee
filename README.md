@@ -3,12 +3,11 @@
 ## Hi 👋 I'm Hanuel
 - Hanyang University, Department of Information System (2020.03 ~ )
 - LikeLion Hanyang 10th, Backend (2022.04 ~ 2022.12)
-- GDSC Hanyang 2nd, Backend Core (2022.08 ~ )
+- GDSC Hanyang 2nd, Backend Core (2022.08 ~ 2023.07)
 - Woowahan Tech Course 5th, Backend (2023.02 ~ )
 
 ## Now I'm learning ...
-
-<img src="https://img.shields.io/badge/Spring-6db33f?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20MVC-6db33f?style=flat-square"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6db33f?style=flat-square"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Framework-6db33f?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Data%20JPA-6db33f?style=flat-square"/> 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 
 <!--
