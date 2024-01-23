@@ -8,7 +8,10 @@
 
 ## Now I'm learning ...
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Framework-6db33f?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-6db33f?style=flat-square"/> 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"> <img src="https://img.shields.io/badge/Ruby%20on%20Rails-CC342D?style=flat-square&logo=RubyOnRails&logoColor=white">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
 
 ## Blog
 개발블로그 : https://velog.io/@hanueleee  
