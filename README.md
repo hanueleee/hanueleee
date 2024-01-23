@@ -4,7 +4,7 @@
 - Hanyang University, Department of Information System (2020.03 ~ )
 - LikeLion Hanyang 10th, Backend (2022.04 ~ 2022.12)
 - GDSC Hanyang 2nd, Backend Core (2022.08 ~ 2023.07)
-- Woowahan Tech Course 5th, Backend (2023.02 ~ )
+- Woowahan Tech Course 5th, Backend (2023.02 ~ 2023.11)
 
 ## Now I'm learning ...
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Framework-6db33f?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=Spring%20Boot&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-6db33f?style=flat-square"/> 
