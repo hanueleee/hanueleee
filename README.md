@@ -13,10 +13,6 @@
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
 
-## Blog
-개발블로그 : https://velog.io/@hanueleee  
-TIL : https://oing-develop.tistory.com/
-
 <!--
 **hanueleee/hanueleee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
